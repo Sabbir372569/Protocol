@@ -1,8 +1,17 @@
-# React + Vite
+# Protocol Website 
+This project is based on the Learning code platform.
+### Here are Some features below about in this project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ---Feature List---
+      1. Have a Header.
+      2. Have a search bar.
+      3. Have a Bannar.
+      4. create a router.
+      5. create the main layout.
+      6. Create an outlet as a sidebar.
+      7. Have a logo in a sidebar.
+      8. apply the routing concept.
+      9. Make a website responsive.
+      10. handle sidebar as responsive using state.
+      11. apply dark theme concepts.
+ 
